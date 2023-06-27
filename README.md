@@ -1,3 +1,3 @@
 # configurator
-yarn
-yarn dev
+1. yarn
+2. yarn dev
