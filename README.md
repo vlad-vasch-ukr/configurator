@@ -1,0 +1,3 @@
+# configurator
+yarn
+yarn dev
